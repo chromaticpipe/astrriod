@@ -17,7 +17,7 @@ Astroid is a proxy that supports now.gg. It uses Ultraviolet, a highly sophistic
 <!--[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FVyperGroup%2Fastroidv3)-->
 
   
-You can also make an A name record pointing to the IPv4 address of 5.161.68.227 or a CNAME record pointing to astroid.wtf. For a free DNS service, use [FreeDNS](https://freedns.afraid.org/) or [DuckDNS](https://duckdns.org/).
+You can also make an A name record pointing to the IPv4 address of 5.161.68.227 or a CNAME record pointing to astroid.gg. For a free DNS service, use [FreeDNS](https://freedns.afraid.org/) or [DuckDNS](https://duckdns.org/).
 
 ## If you are deploying to an alternative service or a server
 Clone repository:
@@ -37,4 +37,4 @@ You can close it at any time by pressing <kbd>ctrl</kbd> + <kbd>c</kbd>
 
 Join the discord server!
 
-[![Join us on Discord](https://invidget.switchblade.xyz/nowgg?theme=dark)](https://discord.gg/nowgg)
+[![Join us on Discord](https://invidget.switchblade.xyz/9sUDHyGQfC?theme=dark)](https://discord.gg/9sUDHyGQfC)
